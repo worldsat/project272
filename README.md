@@ -41,4 +41,4 @@ Learn how to build this exact app step-by-step in my YouTube video:
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/worldsat/project272.git](https://github.com/worldsat/project272.git)
